@@ -1,0 +1,17 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+
+# Raw source CSVs (download locally — see data/raw/README.md)
+data/raw/*.csv
+
+# Generated (rebuild with build_database.py)
+data/atp_tennis.db
+
+# Tableau local workbooks (optional — remove if you publish .twbx)
+*.twb
+*.twbx

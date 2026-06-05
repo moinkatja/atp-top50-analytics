@@ -1,0 +1,207 @@
+player_id,first_name,last_name,country,wins,matches,losses,win_rate,best_surface
+100644,Alexander,Zverev,GER,518,735,217,0.7048,Clay
+103333,Ivo,Karlovic,CRO,110,218,108,0.5046,Grass
+103565,Stephane,Robert,FRA,17,55,38,0.3091,Clay
+103607,Victor,Estrella,DOM,41,97,56,0.4227,Clay
+103794,Benjamin,Becker,GER,20,62,42,0.3226,Hard
+103819,Roger,Federer,SUI,259,309,50,0.8382,Grass
+103852,Feliciano,Lopez,ESP,144,300,156,0.48,Grass
+103893,Paolo,Lorenzi,ITA,72,181,109,0.3978,Clay
+103898,Julien,Benneteau,FRA,29,73,44,0.3973,Hard
+103917,Nicolas,Mahut,FRA,59,121,62,0.4876,Grass
+103970,David,Ferrer,ESP,133,217,84,0.6129,Clay
+103990,Tommy,Robredo,ESP,32,74,42,0.4324,Clay
+104022,Mikhail,Youzhny,RUS,43,125,82,0.344,Hard
+104180,Gilles,Muller,LUX,109,194,85,0.5619,Grass
+104198,Guillermo,Garcia Lopez,ESP,81,185,104,0.4378,Clay
+104229,Yen Hsun,Lu,TPE,36,90,54,0.4,Hard
+104252,Florian,Mayer,GER,27,80,53,0.3375,Grass
+104259,Philipp,Kohlschreiber,GER,152,285,133,0.5333,Clay
+104269,Fernando,Verdasco,ESP,154,317,163,0.4858,Clay
+104291,Malek,Jaziri,TUN,77,191,114,0.4031,Clay
+104312,Andreas,Seppi,ITA,124,264,140,0.4697,Grass
+104327,Steve,Darcis,BEL,43,95,52,0.4526,Hard
+104338,Juan,Monaco,ARG,38,75,37,0.5067,Clay
+104468,Gilles,Simon,FRA,175,339,164,0.5162,Grass
+104527,Stan,Wawrinka,SUI,244,408,164,0.598,Hard
+104542,Jo-Wilfried,Tsonga,FRA,148,240,92,0.6167,Hard
+104545,John,Isner,USA,246,413,167,0.5956,Grass
+104547,Horacio,Zeballos,ARG,40,93,53,0.4301,Clay
+104559,Teymuraz,Gabashvili,RUS,30,77,47,0.3896,Clay
+104571,Marcos,Baghdatis,CYP,86,164,78,0.5244,Grass
+104586,Lukas,Rosol,CZE,45,112,67,0.4018,Clay
+104597,Nicolas,Almagro,ESP,50,105,55,0.4762,Clay
+104607,Tomas,Berdych,CZE,156,238,82,0.6555,Hard
+104620,Simone,Bolelli,ITA,38,84,46,0.4524,Clay
+104655,Pablo,Cuevas,URU,146,284,138,0.5141,Clay
+104660,Sergiy,Stakhovsky,UKR,45,112,67,0.4018,Hard
+104665,Pablo,Andujar,ESP,65,167,102,0.3892,Clay
+104678,Viktor,Troicki,SRB,106,215,109,0.493,Grass
+104719,Marcel,Granollers,ESP,53,132,79,0.4015,Clay
+104731,Kevin,Anderson,RSA,181,301,120,0.6013,Grass
+104745,Rafael,Nadal,ESP,378,471,93,0.8025,Clay
+104755,Richard,Gasquet,FRA,232,418,186,0.555,Grass
+104792,Gael,Monfils,FRA,272,445,173,0.6112,Hard
+104797,Denis,Istomin,UZB,68,171,103,0.3977,Grass
+104871,Jeremy,Chardy,FRA,138,284,146,0.4859,Hard
+104890,Andreas,Haider Maurer,AUT,22,60,38,0.3667,Clay
+104898,Robin,Haase,NED,101,231,130,0.4372,Grass
+104918,Andy,Murray,GBR,261,376,115,0.6941,Grass
+104919,Leonardo,Mayer,ARG,89,187,98,0.4759,Clay
+104925,Novak,Djokovic,SRB,566,660,94,0.8576,Grass
+104926,Fabio,Fognini,ITA,239,450,211,0.5311,Clay
+104999,Mischa,Zverev,GER,72,170,98,0.4235,Grass
+105011,Illya,Marchenko,UKR,28,75,47,0.3733,Hard
+105023,Sam,Querrey,USA,149,290,141,0.5138,Grass
+105051,Matthew,Ebden,AUS,40,102,62,0.3922,Grass
+105053,Santiago,Giraldo,COL,41,101,60,0.4059,Clay
+105062,Mikhail,Kukushkin,KAZ,103,251,148,0.4104,Hard
+105064,Thomaz,Bellucci,BRA,64,145,81,0.4414,Clay
+105077,Albert,Ramos,ESP,208,448,240,0.4643,Clay
+105138,Roberto,Bautista Agut,ESP,363,598,235,0.607,Grass
+105173,Adrian,Mannarino,FRA,268,548,280,0.4891,Grass
+105208,Ernests,Gulbis,LAT,44,118,74,0.3729,Hard
+105216,Yuichi,Sugita,JPN,47,119,72,0.395,Grass
+105223,Juan Martin,del Potro,ARG,128,178,50,0.7191,Hard
+105227,Marin,Cilic,CRO,293,478,185,0.613,Grass
+105238,Alexandr,Dolgopolov,UKR,74,146,72,0.5068,Clay
+105311,Joao,Sousa,POR,164,372,208,0.4409,Clay
+105332,Benoit,Paire,FRA,169,378,209,0.4471,Grass
+105357,John,Millman,AUS,119,261,142,0.4559,Hard
+105373,Martin,Klizan,SVK,85,175,90,0.4857,Clay
+105376,Peter,Gojowczyk,GER,67,154,87,0.4351,Hard
+105379,Aljaz,Bedene,SLO,116,244,128,0.4754,Clay
+105385,Donald,Young,USA,68,149,81,0.4564,Grass
+105430,Radu,Albot,MDA,92,232,140,0.3966,Hard
+105449,Steve,Johnson,USA,173,340,167,0.5088,Grass
+105453,Kei,Nishikori,JPN,264,394,130,0.6701,Clay
+105526,Jan Lennard,Struff,GER,220,460,240,0.4783,Clay
+105550,Guido,Pella,ARG,119,253,134,0.4704,Clay
+105554,Daniel,Evans,GBR,150,314,164,0.4777,Hard
+105575,Ricardas,Berankis,LTU,84,190,106,0.4421,Hard
+105577,Vasek,Pospisil,CAN,88,202,114,0.4356,Hard
+105583,Dusan,Lajovic,SRB,187,426,239,0.439,Clay
+105643,Federico,Delbonis,ARG,124,275,151,0.4509,Clay
+105668,Jerzy,Janowicz,POL,31,64,33,0.4844,Hard
+105676,David,Goffin,BEL,305,527,222,0.5787,Clay
+105683,Milos,Raonic,CAN,211,318,107,0.6635,Grass
+105723,Andrey,Kuznetsov,RUS,55,114,59,0.4825,Hard
+105732,Pierre Hugues,Herbert,FRA,99,220,121,0.45,Grass
+105777,Grigor,Dimitrov,BUL,345,555,210,0.6216,Hard
+105807,Pablo,Carreno Busta,ESP,266,469,203,0.5672,Hard
+105815,Tennys,Sandgren,USA,47,123,76,0.3821,Hard
+105870,Yannick,Hanfmann,GER,86,178,92,0.4831,Clay
+105902,James,Duckworth,AUS,67,170,103,0.3941,Hard
+105916,Marton,Fucsovics,HUN,176,347,171,0.5072,Clay
+105932,Nikoloz,Basilashvili,GEO,153,334,181,0.4581,Clay
+105936,Filip,Krajinovic,SRB,114,233,119,0.4893,Hard
+105948,Federico,Coria,ARG,56,134,78,0.4179,Clay
+105992,Ryan,Harrison,USA,62,134,72,0.4627,Hard
+106000,Damir,Dzumhur,BIH,140,302,162,0.4636,Clay
+106005,Constant,Lestienne,FRA,18,62,44,0.2903,Hard
+106043,Diego,Schwartzman,ARG,248,466,218,0.5322,Clay
+106058,Jack,Sock,USA,139,250,111,0.556,Hard
+106065,Marco,Cecchinato,ITA,80,203,123,0.3941,Clay
+106071,Bernard,Tomic,AUS,98,196,98,0.5,Grass
+106148,Roberto,Carballes Baena,ESP,127,288,161,0.441,Clay
+106210,Jiri,Vesely,CZE,127,275,148,0.4618,Grass
+106214,Oscar,Otte,GER,34,86,52,0.3953,Clay
+106218,Marcos,Giron,USA,128,272,144,0.4706,Grass
+106228,Juan Ignacio,Londero,ARG,35,83,48,0.4217,Clay
+106233,Dominic,Thiem,AUT,321,507,186,0.6331,Clay
+106234,Aslan,Karatsev,RUS,79,164,85,0.4817,Hard
+106296,Gregoire,Barrere,FRA,38,102,64,0.3725,Hard
+106298,Lucas,Pouille,FRA,141,268,127,0.5261,Grass
+106378,Kyle,Edmund,GBR,120,238,118,0.5042,Hard
+106398,Pedro,Cachin,ARG,25,72,47,0.3472,Clay
+106401,Nick,Kyrgios,AUS,199,310,111,0.6419,Hard
+106415,Yoshihito,Nishioka,JPN,144,312,168,0.4615,Hard
+106421,Daniil,Medvedev,RUS,424,603,179,0.7032,Hard
+106426,Cristian,Garin,CHI,132,252,120,0.5238,Clay
+106432,Borna,Coric,CRO,217,413,196,0.5254,Clay
+109739,Maximilian,Marterer,GER,42,122,80,0.3443,Clay
+111153,Christopher,Eubanks,USA,44,112,68,0.3929,Grass
+111190,Zhizhen,Zhang,CHN,60,131,71,0.458,Clay
+111202,Hyeon,Chung,KOR,83,151,68,0.5497,Hard
+111442,Jordan,Thompson,AUS,154,330,176,0.4667,Grass
+111456,Mackenzie,Mcdonald,USA,115,256,141,0.4492,Grass
+111460,Quentin,Halys,FRA,47,133,86,0.3534,Clay
+111513,Laslo,Djere,SRB,156,319,163,0.489,Clay
+111575,Karen,Khachanov,RUS,308,528,220,0.5833,Grass
+111577,Jared,Donaldson,USA,48,111,63,0.4324,Hard
+111797,Nicolas,Jarry,CHI,125,254,129,0.4921,Clay
+111815,Cameron,Norrie,GBR,243,425,182,0.5718,Clay
+122298,Botic,Van De Zandschulp,NED,111,223,112,0.4978,Clay
+122330,Alexander,Bublik,KAZ,189,361,172,0.5235,Grass
+124079,Pedro,Martinez,ESP,85,203,118,0.4187,Clay
+124116,Sebastian,Ofner,AUT,50,116,66,0.431,Clay
+124186,Alexandre,Muller,FRA,51,117,66,0.4359,Clay
+124187,Reilly,Opelka,USA,121,237,116,0.5105,Hard
+125802,Ilya,Ivashka,BLR,88,178,90,0.4944,Grass
+126094,Andrey,Rublev,RUS,372,580,208,0.6414,Grass
+126127,Benjamin,Bonzi,FRA,61,141,80,0.4326,Hard
+126128,Roman,Safiullin,RUS,57,131,74,0.4351,Hard
+126203,Taylor,Fritz,USA,338,552,214,0.6123,Grass
+126205,Tommy,Paul,USA,205,343,138,0.5977,Grass
+126207,Frances,Tiafoe,USA,235,448,213,0.5246,Grass
+126214,Alejandro,Tabilo,CHI,70,142,72,0.493,Clay
+126239,Arthur,Rinderknech,FRA,101,213,112,0.4742,Hard
+126523,Bernabe,Zapata Miralles,ESP,35,97,62,0.3608,Clay
+126610,Matteo,Berrettini,ITA,211,328,117,0.6433,Grass
+126774,Stefanos,Tsitsipas,GRE,369,552,183,0.6685,Clay
+126845,Max,Purcell,AUS,32,85,53,0.3765,Hard
+126846,Aleksandar,Vukic,AUS,56,138,82,0.4058,Grass
+127157,Daniel,Altmaier,GER,67,177,110,0.3785,Clay
+128034,Hubert,Hurkacz,POL,226,377,151,0.5995,Grass
+132283,Lorenzo,Sonego,ITA,169,353,184,0.4788,Grass
+132686,Nuno,Borges,POR,70,151,81,0.4636,Clay
+133430,Denis,Shapovalov,CAN,235,429,194,0.5478,Hard
+134770,Casper,Ruud,NOR,295,453,158,0.6512,Clay
+134868,Tallon,Griekspoor,NED,124,244,120,0.5082,Grass
+136440,Dominik,Koepfer,GER,61,136,75,0.4485,Clay
+144684,Alex,Molcan,SVK,51,96,45,0.5313,Clay
+144707,Mikael,Ymer,SWE,73,155,82,0.471,Hard
+144719,Jaume,Munar,ESP,121,282,161,0.4291,Clay
+144750,Lloyd,Harris,RSA,78,163,85,0.4785,Hard
+144817,Marc Andrea,Huesler,SUI,32,85,53,0.3765,Hard
+144869,Tomas Martin,Etcheverry,ARG,91,193,102,0.4715,Clay
+144895,Corentin,Moutet,FRA,98,215,117,0.4558,Grass
+200000,Felix,Auger Aliassime,CAN,267,439,172,0.6082,Grass
+200005,Ugo,Humbert,FRA,168,316,148,0.5316,Hard
+200116,Camilo,Ugo Carabelli,ARG,23,57,34,0.4035,Clay
+200175,Miomir,Kecmanovic,SRB,170,346,176,0.4913,Hard
+200221,Alejandro,Davidovich Fokina,ESP,159,303,144,0.5248,Clay
+200267,Zizou,Bergs,BEL,55,119,64,0.4622,Hard
+200282,Alex,De Minaur,AUS,311,491,180,0.6334,Hard
+200303,Pavel,Kotov,RUS,36,82,46,0.439,Clay
+200325,Emil,Ruusuvuori,FIN,112,218,106,0.5138,Hard
+200615,Alexei,Popyrin,AUS,111,246,135,0.4512,Clay
+200624,Sebastian,Korda,USA,149,248,99,0.6008,Grass
+200670,J J,Wolf,USA,45,98,53,0.4592,Hard
+202103,Francisco,Cerundolo,ARG,139,253,114,0.5494,Clay
+202104,Sebastian,Baez,ARG,108,220,112,0.4909,Clay
+202195,Maxime,Cressy,USA,43,101,58,0.4257,Grass
+202385,Jenson,Brooksby,USA,67,115,48,0.5826,Grass
+206173,Jannik,Sinner,ITA,326,417,91,0.7818,Hard
+206681,Fabian,Marozsan,HUN,60,124,64,0.4839,Hard
+206909,Brandon,Nakashima,USA,129,238,109,0.542,Grass
+207518,Lorenzo,Musetti,ITA,179,313,134,0.5719,Clay
+207686,Alexander,Shevchenko,KAZ,51,118,67,0.4322,Hard
+207733,Jack,Draper,GBR,109,170,61,0.6412,Grass
+207830,Tomas,Machac,CZE,72,133,61,0.5414,Hard
+207925,Flavio,Cobolli,ITA,75,140,65,0.5357,Clay
+207989,Carlos,Alcaraz,ESP,280,345,65,0.8116,Grass
+208029,Holger,Rune,DEN,179,286,107,0.6259,Hard
+208103,Jiri,Lehecka,CZE,119,208,89,0.5721,Grass
+208286,Matteo,Arnaldi,ITA,68,136,68,0.5,Clay
+208363,Mariano,Navone,ARG,36,83,47,0.4337,Clay
+208659,Giovanni,Mpetshi Perricard,FRA,38,79,41,0.481,Hard
+209113,Gabriel,Diallo,CAN,41,80,39,0.5125,Hard
+209260,Luciano,Darderi,ITA,55,110,55,0.5,Clay
+209950,Arthur,Fils,FRA,85,143,58,0.5944,Clay
+209992,Juncheng,Shang,CHN,35,76,41,0.4605,Hard
+210097,Ben,Shelton,USA,111,188,77,0.5904,Hard
+210150,Jakub,Mensik,CZE,62,104,42,0.5962,Hard
+210506,Alex,Michelsen,USA,66,131,65,0.5038,Grass
+210530,Learner,Tien,USA,42,72,30,0.5833,Hard
+211663,Joao,Fonseca,BRA,39,63,24,0.619,Hard
